@@ -2,7 +2,7 @@
 
 ⚠️Warning: This article may contain peanuts.⚠️
 
-I am Zoya Patel from India. Apart from being a computer engineering student, I'm a creative writer, too.
+I am Zoya Mariam Patel from India. Apart from being a computer engineering student, I'm a creative writer, too.
 
 - 🔨 I’m currently working on building a demo website for a bakery.
 - 📖 I’m currently learning Data structures, Bootstrap, jQuery, SQL, PHP, C++.
