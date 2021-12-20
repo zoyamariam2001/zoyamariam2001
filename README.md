@@ -1,10 +1,10 @@
-### Hello there 👋
+### Hello there! 👋
 
 ⚠️Warning: This article may contain peanuts.⚠️
 
 I am Zoya Mariam Patel from India. Apart from being a computer engineering student, I'm a creative writer, too.
 
-- 🔨 I’m currently working on building a demo website for a bakery.
+- 🔨 I’m currently working on building a website for a bakery.
 - 📖 I’m currently learning Data structures, Bootstrap, jQuery, SQL, PHP, C++, Markdown.
 - 💬 Ask me about Python, HTML, CSS.
 - 📫 Feel free to contact me on: zoyamariam7@gmail.com
@@ -16,16 +16,3 @@ I am Zoya Mariam Patel from India. Apart from being a computer engineering stude
 
 
 Have a nice day! 😄
-
-<!--
--  Fun fact: ...
--  - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-Procrastination is the art of keeping up with yesterday. - Don Marquis
-“The best thing about a boolean is even if you are wrong, you are only off by a bit.” 
-“Why do Java programmers have to wear glasses? Because they don’t C#.”
-“Q: What did the Java code say to the C code? A: You’ve got no class.”
-
-
--->
