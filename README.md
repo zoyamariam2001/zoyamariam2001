@@ -5,7 +5,7 @@
 I am Zoya Mariam Patel from India. Apart from being a computer engineering student, I'm a creative writer, too.
 
 - 🔨 I’m currently working on creating a website for a bakery.
-- 📖 I’m currently learning Data structures, Bootstrap, jQuery, SQL, PHP, C++, Markdown.
+- 📖 I’m currently learning Data structures, JavaScript, Bootstrap, jQuery, SQL, PHP, C++, Markdown.
 - 💬 Ask me about Python, HTML, CSS.
 - 📫 Feel free to contact me on: zoyamariam7@gmail.com
 - 🔗 Here is a link to my [LinkedIn](https://linkedin.com/in/zoya-patel-570626213/) Profile
